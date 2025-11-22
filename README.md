@@ -602,3 +602,26 @@ const container = document.getElementById('root');
 if (container) createRoot(container).render(<Root />);
 
 export default Root;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1542" height="834" alt="image" src="https://github.com/user-attachments/assets/b9fbd468-7979-442b-b43b-9760f478cfec" />
+
+
+<img width="1541" height="839" alt="image" src="https://github.com/user-attachments/assets/2ba409a3-4c71-48ea-ba7a-7f791227e944" />
+
+<img width="1542" height="834" alt="image" src="https://github.com/user-attachments/assets/53efdcaa-7155-46cb-9658-d58960d4ba89" />
+
